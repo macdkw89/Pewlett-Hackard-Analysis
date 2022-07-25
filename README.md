@@ -2,7 +2,7 @@
 SQL, MySQL, PostgreSQL, pgAdmin 4
 
 ## Overview
-The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
+The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The findings are described below.
 
 ## Results
 Here are 4 takeaways from the analysis:
